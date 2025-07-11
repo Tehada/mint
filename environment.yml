@@ -54,5 +54,4 @@ dependencies:
       - dgeb
       - ipywidgets
       - line_profiler
-      - plotly
       - -e /home/ubuntu/esm

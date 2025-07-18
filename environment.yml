@@ -54,4 +54,7 @@ dependencies:
       - dgeb
       - ipywidgets
       - line_profiler
+      - optuna
+      - optuna-dashboard
       - -e /home/ubuntu/esm
+      - -e /home/ubuntu/mint
